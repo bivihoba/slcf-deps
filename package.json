@@ -1,0 +1,13 @@
+{
+  "name": "SLCF imports manipulation",
+  "description": "Sandbox",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vasilij Chernov",
+    "email": "Vasiliy.Chernov@softline.ru",
+    "url": "http://bivihoba.ru"
+  },
+  "devDependencies": {
+    "underscore": ">=1.7.0"
+  }
+}
