@@ -7,6 +7,10 @@
     "email": "Vasiliy.Chernov@softline.ru",
     "url": "http://bivihoba.ru"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bivihoba/slcf-deps.git"
+  },
   "devDependencies": {
     "underscore": ">=1.7.0",
     "underscore.string": ">=3.0.2"
